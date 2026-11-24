@@ -10,7 +10,7 @@ written by a program, for the make.fun bounty
 
 ## The tip
 
-> Loading: CI passed, the flaky test failed, and the deploy blamed you — congratulations, you are now the legacy code.
+> Loading: CI passed, the flaky test failed, and the deploy blamed you — congratulations, the legacy code is you.
 
 ## Run it
 

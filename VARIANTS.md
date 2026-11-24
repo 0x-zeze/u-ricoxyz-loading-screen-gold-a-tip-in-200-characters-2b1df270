@@ -8,8 +8,8 @@ category error / pembalikan. Klise yang dihindari: "it's a feature",
 ## V1
 Tip: while this loads, git blame the flaky test, rebase your weekend, and remember the rollback already filed a bug against you.
 
-## V2 (PEMENANG)
-Loading: CI passed, the flaky test failed, and the deploy blamed you — congratulations, you are now the legacy code.
+## V2 (PEMENANG — direvisi: punchline dipadatkan menjadi "the legacy code is you")
+Loading: CI passed, the flaky test failed, and the deploy blamed you — congratulations, the legacy code is you.
 
 ## V3
 Tip: your merge conflict resolved itself by deleting Friday, and npm install just billed your weekend to the build.
